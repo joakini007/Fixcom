@@ -1,0 +1,430 @@
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bungee_14.0.0_google";
+  src: url("../../../fonts/Bungee-Regular_14.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bungee_14.0.0_google";
+  src: url("../../../fonts/Bungee-Regular_14.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bungee_14.0.0_google";
+  src: url("../../../fonts/Bungee-Regular_14.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bungee_14.0.0_google";
+  src: url("../../../fonts/Bungee-Regular_14.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bakbak One_9.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_9.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bungee_14.0.0_google";
+  src: url("../../../fonts/Bungee-Regular_14.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bungee_14.0.0_google";
+  src: url("../../../fonts/Bungee-Regular_14.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bungee_14.0.0_google";
+  src: url("../../../fonts/Bungee-Regular_14.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Audiowide_20.0.0_google";
+  src: url("../../../fonts/Audiowide-Regular_20.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Azeret Mono_17.0.0_google";
+  src: url("../../../fonts/Azeret Mono-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Black Han Sans_17.0.0_google";
+  src: url("../../../fonts/Black Han Sans-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bangers_24.0.0_google";
+  src: url("../../../fonts/Bangers-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+}
+@font-face {
+  font-family: "Atma_16.0.0_google";
+  src: url("../../../fonts/Atma-Regular_16.0.0_google.ttf");
+  font-weight: 400; 
+}
+@font-face {
+  font-family: "Bakbak One_8.0.0_google";
+  src: url("../../../fonts/Bakbak One-Regular_8.0.0_google.ttf");
+  font-weight: 400; 
+}
